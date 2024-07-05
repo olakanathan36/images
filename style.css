@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+td{
+    background-image: url("./img/pexels-serpstat-177219-572056.jpg");
+}
+.img{
+    width: 200px;
+    height: 200px;
+}
+ul{
+    display: flex;
+
+}
+li{
+    padding: 20px;
+    list-style: none;
+}
+.main{
+    margin-left: 250px;
+}
+h3,p{
+    justify-content: center;
+    text-align: center;
+
+}
